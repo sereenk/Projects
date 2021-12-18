@@ -22,7 +22,9 @@ Here is some more information on the API - https://affiliate.itunes.apple.com/re
 
 STEP 1: Step 1: Log in or create an account 
 STEP 2: Go to the dashboard page for Spotify Developers (https://developer.spotify.com/dashboard/login).
-STEP 3: 'Create an App' :  To do so, go to your Dashboard and click on the Create an App button to open the following dialog box:<img width="302" alt="Screen Shot 2021-12-18 at 2 49 47 PM" src="https://user-images.githubusercontent.com/59630489/146657534-e35fb1b7-e1ad-41a2-9e81-04c114423b09.png">
+STEP 3: 'Create an App' :  To do so, go to your Dashboard and click on the Create an App button to open the following dialog box:
+
+<img width="302" alt="Screen Shot 2021-12-18 at 2 49 47 PM" src="https://user-images.githubusercontent.com/59630489/146657534-e35fb1b7-e1ad-41a2-9e81-04c114423b09.png">
 
 STEP 4: Enter an App Name and App Description of your choice (they will be displayed to the user on the grant screen), put a tick in the Developer Terms of Service checkbox and finally click on CREATE. Your application is now registered, and you’ll be redirected to the app overview page.
 
