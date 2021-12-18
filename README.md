@@ -35,7 +35,8 @@ STEP 5: Please save your CLIENT ID and CLIENT SECRET for this project.
 If you are still finding it hard to get the access, please refer to this for more information. 
 More information : https://developer.spotify.com/documentation/general/guides/authorization/app-settings/
 
-
+# REQUIRED PACKAGES
+# HOW TO INTERACT WITH THE PROGRAM
 # PROCESS
 
 
