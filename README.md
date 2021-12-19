@@ -62,7 +62,8 @@ instrumentalness  — Predicts whether a track contains no vocals. “Ooh” and
 
 liveness — Detects the presence of an audience in the recording.
 
-I analyzed the data to understand the users' musical inclinations. My analysis shows the users' top 10 tracks along with the album covers. I created a radar chart to see which features are the tracks more inclined to and a correlation graph to see the correlations between each of the audio features. I also created a scatterpolt to see the relationship between artists, popularity, energy, and instrumentalness. Here are some of the visualizations. 
+
+I analyzed the data to understand the users' musical inclinations. My analysis shows the users' top 10 tracks along with the album covers. I created a radar chart to see the track inclinations and a correlation graph to see the correlations between each of the audio features. I also created a scatterplot to see the relationship between artists, popularity, energy, and instrumentalness. Here are some of the visualizations. 
 
 <img width="771" alt="Screen Shot 2021-12-18 at 4 01 06 PM" src="https://user-images.githubusercontent.com/59630489/146658803-bb6b4207-4585-4161-bab4-15df51b01fd8.png">
 
