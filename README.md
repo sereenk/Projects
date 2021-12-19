@@ -2,7 +2,7 @@
 
 # ABOUT 
 
-This is my final project for an Intermediate Python Programming class(SI 507) at the University of Michigan, Ann Arbor. A couple of days ago, I saw my Spotify wrapped and that made me so excited! However, I wanted to see some more information on my musical inclinations. So I wondered, what if I try making it for my top artist tracks? So, I decided to do a project using Spotify's API and the iTunes API. I accessed the API, retrieved my information, processed it to create a data frame and then create some visualizations. I wanted to make it interactive, so that non-Spotify users can use this as well. So I added in an iTunes option for users to search a particular term within the iTunes API so they can see its respective songs, books, and other related information!![image](https://user-images.githubusercontent.com/59630489/146658262-4cff0ab5-4e2d-4e4f-a286-499d0a630988.png)
+This is my final project for an Intermediate Python Programming class(SI 507) at the University of Michigan, Ann Arbor. A couple of days ago, I saw my Spotify wrapped and that made me so excited! However, I wanted to see some more information on my musical inclinations. So I wondered, what if I try making it for my top artist tracks? So, I decided to do a project using Spotify's API and the iTunes API. I accessed the API, retrieved my information, processed it to create a data frame and then create some visualizations. I wanted to make it interactive, so that non-Spotify users can use this as well. So I added in an iTunes option for those users to search a particular term within the iTunes API so they can see its respective songs, books, and other related media information!!
 
 
 ## DATA SOURCES : 
@@ -10,14 +10,13 @@ This is my final project for an Intermediate Python Programming class(SI 507) at
 ### 1. SPOTIFY API 
 The first data source is the Spotify API. The Spotify API gives developers a way to access their data on artists, tracks, playlists and users through their web API. This API will be used to extract relevant data and used to analyze a users' musical inclinations.
 Here is some more information on the API - https://developer.spotify.com/documentation/web-api/
-![image](https://user-images.githubusercontent.com/59630489/146658286-1751b120-a3b7-4a15-8c75-901caf539158.png)
+
 
 ### 2. I-TUNES API :
 
 The second source was the ITUNES API. The data will be retrieved from this API depending upon what the user searches. The data will then be processed and stored  as lists and information will be finally returned to the user. The iTunes API doesn't need any authorization so it can be easily accessed. 
 
 Here is some more information on the API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-![image](https://user-images.githubusercontent.com/59630489/146658290-446e78d1-58c7-4bed-89ca-05216c78f239.png)
 
 # SETUP
 
