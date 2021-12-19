@@ -79,5 +79,8 @@ In terms of interaction, it is relatively very easy for the user. The user can c
 The user will first be asked if they have a spotify account yet or not. If yes, then the user will be promted to input the CLIENT ID and SECRET CLIENT. If no, then the user will be directed to use the iTunes API. 
 For the Spotify API, the user will then be asked if they want to see their top spotify tracks. If 'yes' then their top tracks and album covers will be displayed. Finally, they will be asked if they want to see their musical inclincations or not. If yes, then their respective visualizations and graphs will be displayed. If the user prompts 'no' for any of the interactions(except the first one), the program will thank and end. 
 
+Here is a rough flowchart of the user's interactions and expected output. 
 
-# TAKEAWAYS
+<img width="1070" alt="Screen Shot 2021-12-18 at 4 29 36 PM" src="https://user-images.githubusercontent.com/59630489/146659222-adcaf4c5-bab5-45b2-bda9-e6848c285313.png">
+
+
