@@ -65,13 +65,15 @@ liveness — Detects the presence of an audience in the recording.
 
 I analyzed the data to understand the users' musical inclinations. My analysis shows the users' top 10 tracks along with the album covers. I created a radar chart to see the track inclinations and a correlation graph to see the correlations between each of the audio features. I also created a scatterplot to see the relationship between artists, popularity, energy, and instrumentalness. Here are some of the visualizations. 
 
-<img width="771" alt="Screen Shot 2021-12-18 at 4 01 06 PM" src="https://user-images.githubusercontent.com/59630489/146658803-bb6b4207-4585-4161-bab4-15df51b01fd8.png">
 
+<img width="680" alt="Screen Shot 2022-01-01 at 8 27 41 PM" src="https://user-images.githubusercontent.com/59630489/147866232-1d1c7ecf-6c71-4c06-abd1-a3a1fbd5dfb3.png">
 
 <img width="695" alt="Screen Shot 2021-12-18 at 4 00 46 PM" src="https://user-images.githubusercontent.com/59630489/146658809-56f37d05-faae-4c3e-ad7b-5e62f55cc1a4.png">
 
 
 <img width="697" alt="Screen Shot 2021-12-18 at 4 00 53 PM" src="https://user-images.githubusercontent.com/59630489/146658811-6275747c-769b-41bb-8123-6f128b86353a.png">
+
+<img width="539" alt="Screen Shot 2022-01-01 at 8 29 10 PM" src="https://user-images.githubusercontent.com/59630489/147866244-8b648ebc-2eda-47b9-a1fb-4ddfe881f206.png">
 
 
 # HOW TO INTERACT WITH THE PROGRAM
